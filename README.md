@@ -2,7 +2,7 @@
 
 ### Zoom Link
 ```diff
-- Tomorrow, the 27 Nov lecture will be online on the below zoom link.
+- Tomorrow Insha Allah, the 4 Dec lecture will be online on the below zoom link.
 ```
 https://us05web.zoom.us/j/84567940896?pwd=MFFrbjl2MkdoQnMwMHdtWjJjbCs5dz09
 
