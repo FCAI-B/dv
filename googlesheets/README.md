@@ -1,0 +1,4 @@
+- Exercise 1 Solution Link:
+  - https://docs.google.com/spreadsheets/d/e/2PACX-1vRwXCNZM02yn1GnpxmzYlw6lBvS-q-Wl4jaPbXQqU-IkgK6mRNYZFPZCaUDVDRHRlTbtrfb3ZsFkDtn/pubhtml
+- Exercise 2 Solution Link:
+  - https://docs.google.com/spreadsheets/d/e/2PACX-1vQzVkmQaGNf9qpJjLOcfO0fwd3jUQB7UcnNFKPxMd1ftDYXZW_udtcP5uFCci-h8RyjKAKCYkmO11on/pubhtml
