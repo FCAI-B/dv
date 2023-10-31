@@ -5,6 +5,9 @@
 - ONLY from the BACK Door of the lecturer's room.
 ```
 
+### For graduation projects
+Please check https://github.com/FCAI-B/gp.
+
 <!--
 ### Zoom Link
 
