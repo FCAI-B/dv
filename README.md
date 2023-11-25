@@ -1,9 +1,9 @@
 ### Sunday 26 Nov. Note
-<!--
+
 ```diff
--  Due to the other years' exams in the same lecture hall, our lecture will be postponed 
+-  Due to the other years' exams, our lecture will be postponed 
 ```
--->
+
 
 
 <!--
