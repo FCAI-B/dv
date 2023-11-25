@@ -1,4 +1,10 @@
-# DV
+### Sunday 26 Nov. Note
+<!--
+```diff
+-  Due to the other years' exams in the same lecture hall, our lecture will be postponed 
+```
+-->
+
 
 <!--
 ```diff
