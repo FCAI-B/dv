@@ -1,10 +1,3 @@
-### Sunday 26 Nov. Note
-
-```diff
--  Due to the other years' exams, our lecture will be postponed 
-```
-
-
 
 <!--
 ```diff
@@ -17,6 +10,15 @@
 + You can enter the lecture after we start,
 - ONLY from the BACK Door of the lecturer's room.
 ```
+
+
+<!--
+### Sunday 26 Nov. Note
+
+```diff
+-  Due to the other years' exams, our lecture will be postponed 
+```
+-->
 
 
 <!--
