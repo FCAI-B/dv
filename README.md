@@ -1,3 +1,9 @@
+### Zoom Link
+https://us05web.zoom.us/j/83518532308?pwd=NXNJVXRTZmQ0dnhuU3A5ODNtanBRUT09
+```diff
++ Our next lecture will be on Tuesday at 7:00 pm.
+```
+
 
 <!--
 ```diff
@@ -6,11 +12,12 @@
 ```
 -->
 
+<!--
 ```diff
 + You can enter the lecture after we start,
 - ONLY from the BACK Door of the lecturer's room.
 ```
-
+-->
 
 <!--
 ### Sunday 26 Nov. Note
