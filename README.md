@@ -1,9 +1,15 @@
+```diff
++ We finished the lectures. Wish you all good luck with your exams.
+```
+
+
+<!--
 ### Zoom Link
 https://us05web.zoom.us/j/83518532308?pwd=NXNJVXRTZmQ0dnhuU3A5ODNtanBRUT09
 ```diff
 + Our next lecture will be on Tuesday at 7:00 pm.
 ```
-
+-->
 
 <!--
 ```diff
