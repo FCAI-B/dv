@@ -1,7 +1,7 @@
 ```diff
-+ We finished the lectures. Wish you all good luck with your exams.
++  Wish you all good luck with your exams.
 ```
-
+<!-- We finished the lectures.-->
 
 <!--
 ### Zoom Link
