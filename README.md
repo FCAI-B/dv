@@ -1,6 +1,14 @@
+
+```diff
+-  There is no data visualization lecture tomorrow, 03 October 2024. 
+```
+
+
+<!--
 ```diff
 +  Wish you all good luck with your exams.
 ```
+-->
 <!-- We finished the lectures.-->
 
 <!--
