@@ -1,6 +1,6 @@
 ```diff
 - Our next lecture, 17 Oct, will be online on Saturday, 19 Oct, at 4:00 pm.
-+ The link will be shared here soon.
++ Google Meet link: https://meet.google.com/onj-pkzn-tme
 ```
 
 
