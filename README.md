@@ -1,9 +1,13 @@
-```diff
+<!--
 - Our next lecture, 17 Oct, will be online on Saturday, 19 Oct, at 4:00 pm.
 + Google Meet link 1: https://meet.google.com/onj-pkzn-tme
 + Google Meet link 2: https://meet.google.com/pay-eveb-ebt 
+-->
+
+```diff
 
 ```
+
 
 
 <!--
