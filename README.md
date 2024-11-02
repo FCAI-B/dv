@@ -1,3 +1,4 @@
+# Data Viz
 <!--
 - Our next lecture  will be online on Saturday, 26 Oct, at 4:00 pm.
 + Google Meet link for the 1st part of the lecture: https://meet.google.com/onj-pkzn-tme
