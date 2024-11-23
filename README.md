@@ -7,7 +7,7 @@
 -->
 
 ```diff
-
++ - Our next lecture will be Next Thursday, 28 Nov, at Modereg 5
 ```
 
 
