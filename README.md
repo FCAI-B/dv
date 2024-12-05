@@ -4,12 +4,12 @@
 + Google Meet link for the 1st part of the lecture: https://meet.google.com/onj-pkzn-tme
 + Google Meet link for the 2nd part of the lecture: https://meet.google.com/pay-eveb-ebt
 + - Our next lecture will be Next Thursday, 28 Nov, at Modereg 5
-There is no lecture tomorrow (5 Dec.)
+- There is no lecture tomorrow (5 Dec.)
 
 -->
 
 ```diff
-- 
+
 ```
 
 
