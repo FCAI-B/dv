@@ -9,7 +9,7 @@
 -->
 
 ```diff
-
++ - Our next lecture will be Next Thursday, 12 Dec, at Modereg 5
 ```
 
 
