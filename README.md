@@ -5,13 +5,18 @@
 + Google Meet link for the 2nd part of the lecture: https://meet.google.com/pay-eveb-ebt
 + - Our next lecture will be Next Thursday, 28 Nov, at Modereg 5
 - There is no lecture tomorrow (5 Dec.)
-
++ - Our next lecture will be Next Thursday, 12 Dec, at Modereg 5
 -->
 
 ```diff
-+ - Our next lecture will be Next Thursday, 12 Dec, at Modereg 5
-```
 
+```
+### Tasks to do
+
+Please do the following (<ins>deadline **24 Dec**</ins>) 
+ - Module 11 Lab: Analyzing and Visualizing Streaming Data with Kinesis Data Firehose, OpenSearch Service, and OpenSearch Dashboards
+ - Module 11 Knowledge Check
+   
 
 
 <!--
