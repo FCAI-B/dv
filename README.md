@@ -9,7 +9,7 @@
 -->
 
 ```diff
-There is no lecture tomorrow (19 Dec. at Modereg 5)
+- There is no lecture tomorrow (19 Dec. at Modereg 5)
 ```
 ### Tasks to do
 
