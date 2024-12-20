@@ -6,10 +6,12 @@
 + - Our next lecture will be Next Thursday, 28 Nov, at Modereg 5
 - There is no lecture tomorrow (5 Dec.)
 + - Our next lecture will be Next Thursday, 12 Dec, at Modereg 5
+- There is no lecture tomorrow (19 Dec. at Modereg 5)
++ Google Meet link for the 1st part of the lecture: https://meet.google.com/pdh-gvnk-hid
 -->
 
 ```diff
-- There is no lecture tomorrow (19 Dec. at Modereg 5)
++ We have finished the course. I wish you all the best in your exams.
 ```
 ### Tasks to do
 
