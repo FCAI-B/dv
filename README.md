@@ -13,9 +13,9 @@
 
 
 <!-- - Regarding Oct 26th, our lectures in the two courses will be postponed. -->
+<!-- - Regarding our next lectures on Nov 16th, our lectures in the two courses will be postponed. -->
 ```diff
-- Regarding our next lectures on Nov 16th, our lectures in the two courses will be postponed.
-
++ Our next lectures on Nov 23rd will be at its time in Room 8.
 ```
 ### Tasks to do
 
