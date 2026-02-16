@@ -16,9 +16,10 @@
 <!-- - Regarding our next lectures on Nov 16th, our lectures in the two courses will be postponed. -->
 <!-- + Our next lectures, next Sunday (Nov 30th), will be at their times in Room 8, Insha Allah. -->
 <!-- - Our lectures on Dec 7th in the two courses will be postponed. -->
+<!-- - We will start our courses in the faculty tomorrow, 15 Feb 2026. -->
 
 ```diff
-- - We will start our courses in the faculty tomorrow, 15 Feb 2026.
+- 
 
 ```
 ### Tasks to do
