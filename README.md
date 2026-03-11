@@ -2,12 +2,14 @@
 
 
 ```diff
-+ At **1 pm** on Thursday, we will have our Data Warehousing lecture online, Insha Allah 
-+ At **2 pm** on Thursday, we will have our Information Security lecture online, Insha Allah
-* Meet Link: https://meet.google.com/qcn-nheh-ehe
+
 ```
 
 <!--
++ At **1 pm** on Thursday, we will have our Data Warehousing lecture online, Insha Allah 
++ At **2 pm** on Thursday, we will have our Information Security lecture online, Insha Allah
+* Meet Link: https://meet.google.com/qcn-nheh-ehe
+
 - Our next lecture  will be online on Saturday, 26 Oct, at 4:00 pm.
 + Google Meet link for the 1st part of the lecture: https://meet.google.com/onj-pkzn-tme
 + Google Meet link for the 2nd part of the lecture: https://meet.google.com/pay-eveb-ebt
@@ -27,7 +29,7 @@
 <!-- - We will start our courses in the faculty tomorrow, 15 Feb 2026. -->
 
 ```diff
-- 
+
 
 ```
 ### Tasks to do
