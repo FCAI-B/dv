@@ -3,7 +3,7 @@
 
 ## Online Links: Sunday at 7:00 pm
 ```diff
-- Our next Lecture will be online next Sunday
+- Our next Lecture will be online next Sunday 18 Oct
 + Online Link 1: https://meet.google.com/tic-vqeo-hwj
 + Online Link 2: https://meet.google.com/xue-pmtn-kvr
 ```
