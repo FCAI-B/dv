@@ -3,7 +3,7 @@
 
 ## Online Links: Sunday at 7:00 pm
 ```diff
-+ Next Lecture  will be in the faculty, Insha Allah
++ Next Lecture  will be in the faculty, Insha Allah (next week)
 ```
 
 
