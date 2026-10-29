@@ -3,13 +3,14 @@
 
 ## Online Links: Sunday at 7:00 pm
 ```diff
-+ Online Link 1: https://meet.google.com/tic-vqeo-hwj
-+ Online Link 2: https://meet.google.com/xue-pmtn-kvr
-- Our next Lecture will be online next Sunday 25 Oct
++ Next Lecture  will be in the faculty, Insha Allah
 ```
 
 
 <!--
++ Online Link 1: https://meet.google.com/tic-vqeo-hwj
++ Online Link 2: https://meet.google.com/xue-pmtn-kvr
+- Our next Lecture will be online next Sunday 25 Oct
 + At **1 pm** on Thursday, we will have our Data Warehousing lecture online, Insha Allah 
 + At **2 pm** on Thursday, we will have our Information Security lecture online, Insha Allah
 * Meet Link: https://meet.google.com/qcn-nheh-ehe
