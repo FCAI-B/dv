@@ -1,13 +1,14 @@
 # Data Viz
 
 
-## Online Links: Sunday at 7:00 pm
+
 ```diff
 - We have a lecture in the faculty tomorrow, 5th Nov (important to attend)
 ```
 
 
 <!--
+## Online Links: Sunday at 7:00 pm
 + Next Lecture  will be in the faculty, Insha Allah (next week)
 + Online Link 1: https://meet.google.com/tic-vqeo-hwj
 + Online Link 2: https://meet.google.com/xue-pmtn-kvr
