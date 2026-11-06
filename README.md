@@ -3,11 +3,13 @@
 
 
 ```diff
-- We have a lecture in the faculty tomorrow, 5th Nov (important to attend)
++ Midterm exam includes lectures 1, 2, 3, 5, and 6.
+- Note: Lecture 4 is not included.
 ```
 
 
 <!--
+- We have a lecture in the faculty tomorrow, 5th Nov (important to attend)
 ## Online Links: Sunday at 7:00 pm
 + Next Lecture  will be in the faculty, Insha Allah (next week)
 + Online Link 1: https://meet.google.com/tic-vqeo-hwj
