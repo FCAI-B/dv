@@ -3,12 +3,14 @@
 
 
 ```diff
-+ Midterm exam includes lectures 1, 2, 3, 5, and 6.
-- Note: Lecture 4 is not included.
+- There is no Lecture this week due to midterm exams
+
 ```
 
 
 <!--
++ Midterm exam includes lectures 1, 2, 3, 5, and 6.
+- Note: Lecture 4 is not included.
 - We have a lecture in the faculty tomorrow, 5th Nov (important to attend)
 ## Online Links: Sunday at 7:00 pm
 + Next Lecture  will be in the faculty, Insha Allah (next week)
