@@ -1,14 +1,17 @@
 # Data Viz
 
+## Online Links: Sunday at 7:30 pm
++ Online Link 1: https://meet.google.com/tic-vqeo-hwj
++ Online Link 2: https://meet.google.com/xue-pmtn-kvr
 
 
 ```diff
-- There is no Lecture this week due to midterm exams
-
+- Our next Lecture will be online next Sunday, 22 Nov
 ```
 
 
 <!--
+- There is no Lecture this week due to midterm exams
 + Midterm exam includes lectures 1, 2, 3, 5, and 6.
 - Note: Lecture 4 is not included.
 - We have a lecture in the faculty tomorrow, 5th Nov (important to attend)
