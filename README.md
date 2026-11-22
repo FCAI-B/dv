@@ -1,12 +1,13 @@
 # Data Viz
 
-## Online Links: Sunday at 7:30 pm
+## Online Links: Thursday at 7:30 pm
 + Online Link 1: https://meet.google.com/tic-vqeo-hwj
 + Online Link 2: https://meet.google.com/xue-pmtn-kvr
 
 
 ```diff
-- Our next Lecture will be online next Sunday, 22 Nov
++ Our next Lecture will be online next Thursday, 26 Nov
+- The day is Thursday
 ```
 
 
